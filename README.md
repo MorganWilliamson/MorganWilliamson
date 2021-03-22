@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🔭 I’m actively searching for a job in software development! My dream job would be within the tech, entertainment, or journalism sectors.
 - 🌱 I’m primarily working in JavaScript, React/Redux, Node/Express, and Python, and dabbling in random languages, frameworks, and libraries along the way. 
 - 📫 [LinkedIn](https://www.linkedin.com/in/morgan-t-williamson/) or [Twitter](https://twitter.com/MorganW_dev) are the best places to get ahold of me!
-- ✨ I love reading magical realism, fantasy, and sci-fi (feel free to send me recommendations!), hiking the local trails, and (virtually!) playing tabletop games with friends.
+- ✨ When I'm not coding, I love reading (feel free to send me recommendations!), hiking the local trails, and (virtually!) playing tabletop games with friends.
