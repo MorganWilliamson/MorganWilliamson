@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 😄 Pronouns: He/Him/His!
-- 🔭 I’m actively searching for a job in software development! I'm always excited to see what possibilities are out there!
 - 🌱 I’m primarily working in JavaScript, React/Redux, Node/Express, and Python, and dabbling in random languages, frameworks, and libraries along the way. (Also currently learning TypeScript!)
 - 📫 [LinkedIn](https://www.linkedin.com/in/morgan-t-williamson/) or [Twitter](https://twitter.com/MorganW_dev) are the best places to get ahold of me!
 - ✨ When I'm not coding, I love reading (feel free to send me recommendations!), hiking the local trails, and (virtually!) playing tabletop games with friends.
